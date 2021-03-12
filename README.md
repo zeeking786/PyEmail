@@ -115,7 +115,7 @@ Wait...Our work is not finished yet there is few setup steps we need to do in ou
 
 2. Now go to the left side you will see the "Security" click on it .
 
-3. After SSecurity page open scroll down you will get "Less Secure App Access" click on it from OFF to ON .
+3. After Security page open scroll down you will get "Less Secure App Access" click on it from OFF to ON .
 
 This is needed so your Python script can access and your account and send emails from it.
 
